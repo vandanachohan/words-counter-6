@@ -1,0 +1,22 @@
+{
+  "name": "code-with-vandy-words-counter-6",
+  "version": "1.0.2",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "code-with-vandana-words-counter-6": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
